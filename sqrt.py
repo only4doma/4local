@@ -23,5 +23,4 @@ def giveRoot(num):
     
     return ans
 
-n = int(input())
-print("{:.10f}".format(giveRoot(n)))
+print("{:.10f}".format(giveRoot(99)))
